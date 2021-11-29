@@ -1,3 +1,5 @@
+// Write a function that takes two integers (hours, minutes), converts them to seconds, and adds them.
+
 function convert(hours, minutes) {
 	let hoursToMins = hours * 60;
     let totalMins = minutes + hoursToMins;
